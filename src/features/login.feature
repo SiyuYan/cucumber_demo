@@ -1,7 +1,7 @@
 Feature: Login Github
   As a user of github
-  I want to login as my account
-  So that I use github
+  I want to login with my account
+  So that I use my github
 
   Scenario Outline: login Github
     Given open the login page
