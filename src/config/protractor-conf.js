@@ -4,6 +4,10 @@ exports.config = {
     specs: [
         '../features/*.feature'
     ],
+    //suites: {
+    //    test: '../features/step_definitions/*.js',
+    //    home:'../features/step_definitions/*.js'
+    //},
     capabilities: {
         browserName: 'chrome'
     }
